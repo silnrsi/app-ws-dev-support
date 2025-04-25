@@ -15,9 +15,11 @@ There are two different nuktas
 
 from the [Grantha block](https://www.unicode.org/charts/PDF/U11300.pdf).
 Support for the two nukta characters varies between applications, so both codepoints should be tested.
-The text below is the same, except for the different nukta codepoints.
-- U+1133B:  க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻
-- U+1133C:  க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼
+The text (both below and in a [file](data.txt)) is the same on each line except for the different nukta codepoints.
+```
+U+1133B:  க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻
+U+1133C:  க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼
+```
 
 Codepoints are
 
@@ -46,8 +48,8 @@ Not only are there two different nukta codepoints,
 but different languages prefer different visual forms.
 
 By default the nuktas in the ThiruValluvar font
-([GitHub releases](https://github.com/nlci/taml-font-thiruvalluvar/releases) or
-([Language Font Finder](https://lff.api.languagetechnology.org/family/thiruvalluvar)
+([GitHub releases](https://github.com/nlci/taml-font-thiruvalluvar/releases)) or
+([Language Font Finder](https://lff.api.languagetechnology.org/family/thiruvalluvar))
 are the single ring.
 
 ![TamilNuktaSingleRing](images/single-ring.png)
