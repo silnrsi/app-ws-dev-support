@@ -30,17 +30,30 @@ U+1133C:  க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ�
 | க𑌻ு    | 0B95 1133B 0BC1 | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
 | க𑌼ு    | 0B95 1133C 0BC1 | ThiruValluvar | lang=iru   | ![TamilNuktaSingleRing](images/single-ring.png) |
 | த𑌻ெ    | 0BA4 1133B 0BC6 | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| த𑌼ெ    | 0BA4 1133C 0BC6 | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| கே𑌻    | 0B95 0BC7 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| கே𑌼    | 0B95 0BC7 1133C | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| ட𑌻ெ𑌻    | 0B9F 1133B 0BC6 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| ட𑌼ெ𑌼    | 0B9F 1133C 0BC6 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| போ𑌻    | 0BAA 0BCB 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| போ𑌼    | 0BAA 0BCB 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| போ𑌻   | 0BAA 0BC7 0BBE 1133B | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
+| போ𑌼   | 0BAA 0BC7 0BBE 1133C | ThiruValluvar |   | ![TamilNuktaSingleRing](images/single-ring.png) |
 | ...   |                 |               |   |                                                 |
-| போ𑌼   | 0BAA 0BC7 0BBE 1133C | | ThiruValluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
+| போ𑌼   | 0BAA 0BC7 0BBE 1133C | ThiruValluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
 
 ### Long tests
 
 | Text  | USVs          | Font        | Settings | Result                      |
 | ----- | ------------- | ----------- | -------- | --------------------------- |
 | க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Thiruvalluvar |    | ![TamilNuktaSingleRing](images/single-ring.png) |
-| க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar |    | ![TamilNuktaSingleRing](images/double-ring.png) |
- 
-
+| க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar |    | ![TamilNuktaSingleRing](images/single-ring.png) |
+| க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Thiruvalluvar | lang=iru | ![TamilNuktaDoubleRing](images/double-ring.png) |
+| க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar | lang=iru | ![TamilNuktaSingleRing](images/double-ring.png) |
+| க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Thiruvalluvar | cv01=1 | ![TamilNuktaDoubleDot](images/double-dot.png) |
+| க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar | cv01=1 | ![TamilNuktaDoubleDot](images/double-dot.png) |
+| க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Thiruvalluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
+| க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
 
 Codepoints are
 
