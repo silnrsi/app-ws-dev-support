@@ -54,7 +54,7 @@ U+1133C:  க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ�
 | க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar | cv01=1 | ![TamilNuktaDoubleDot](images/double-dot.png) |
 | க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Thiruvalluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
 | க𑌼ு த𑌼ெ கே𑌼 ட𑌼ெ𑌼 போ𑌼 போ𑌼 | 0B95 1133C 0BC1 0BA4 1133C 0BC6 0B95 0BC7 1133C 0B9F 1133C 0BC6 1133C 0BAA 0BCB 1133C 0BAA 0BC7 0BBE 1133C | Thiruvalluvar | cv01=2 | ![TamilNuktaSingleDot](images/single-dot.png) |
-
+| க𑌻ு த𑌻ெ கே𑌻 ட𑌻ெ𑌻 போ𑌻 போ𑌻 | 0B95 1133B 0BC1 0BA4 1133B 0BC6 0B95 0BC7 1133B 0B9F 1133B 0BC6 1133B 0BAA 0BCB 1133B 0BAA 0BC7 0BBE 1133B | Tiro Tamil | | ![TamilNuktaSingleDotTiro](images/single-dot-tiro.png) |
 Codepoints are
 
 - U+1133B
